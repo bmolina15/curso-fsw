@@ -1,0 +1,8 @@
+C:\Users\SITE\repos\curso-fsw\EjemploGit\EjemploGit\bin\Debug\EjemploGit.exe.config
+C:\Users\SITE\repos\curso-fsw\EjemploGit\EjemploGit\bin\Debug\EjemploGit.exe
+C:\Users\SITE\repos\curso-fsw\EjemploGit\EjemploGit\bin\Debug\EjemploGit.pdb
+C:\Users\SITE\repos\curso-fsw\EjemploGit\EjemploGit\obj\Debug\EjemploGit.csprojResolveAssemblyReference.cache
+C:\Users\SITE\repos\curso-fsw\EjemploGit\EjemploGit\obj\Debug\EjemploGit.Properties.Resources.resources
+C:\Users\SITE\repos\curso-fsw\EjemploGit\EjemploGit\obj\Debug\EjemploGit.csproj.GenerateResource.Cache
+C:\Users\SITE\repos\curso-fsw\EjemploGit\EjemploGit\obj\Debug\EjemploGit.exe
+C:\Users\SITE\repos\curso-fsw\EjemploGit\EjemploGit\obj\Debug\EjemploGit.pdb

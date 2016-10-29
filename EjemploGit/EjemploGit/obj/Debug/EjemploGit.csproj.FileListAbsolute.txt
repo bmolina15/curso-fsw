@@ -6,3 +6,4 @@ C:\Users\SITE\repos\curso-fsw\EjemploGit\EjemploGit\obj\Debug\EjemploGit.Propert
 C:\Users\SITE\repos\curso-fsw\EjemploGit\EjemploGit\obj\Debug\EjemploGit.csproj.GenerateResource.Cache
 C:\Users\SITE\repos\curso-fsw\EjemploGit\EjemploGit\obj\Debug\EjemploGit.exe
 C:\Users\SITE\repos\curso-fsw\EjemploGit\EjemploGit\obj\Debug\EjemploGit.pdb
+C:\Users\SITE\repos\curso-fsw\EjemploGit\EjemploGit\obj\Debug\EjemploGit.Form1.resources
